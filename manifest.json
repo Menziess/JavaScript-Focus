@@ -1,0 +1,17 @@
+{
+  "name": "Focus",
+  "author": "Stefan Schenk",
+  "version": "1.0",
+  "description": "Deny you the right of distracting yourself.",
+  "permissions": [
+    "tabs"
+  ],
+  "browser_action": {
+    "default_icon": {
+      "20": "images/20px.png",
+      "40": "images/40px.png"
+    },
+    "default_title": "Focus",
+    "default_popup": "popup.html"
+  }
+}
